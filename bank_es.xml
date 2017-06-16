@@ -5307,7 +5307,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES0241" model="bank">
             <field name="party" ref="PARTY-ES0241"/>
-            <field name="bic">PRDVESM1XXX</field>
+            <field name="bic">AYGBESMMXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES0241</field>
         </record>
@@ -6026,40 +6026,6 @@ this repository contains the full copyright notices and license terms. -->
             <field name="code">ES1475</field>
         </record>
 
-        <record id="PARTY-ES1477" model="party.party">
-            <field name="name">THE ROYAL BANK OF SCOTLAND PLC, SUCURSAL EN ESPAÑA</field>
-            <field name="lang" search="[('code', '=', 'es_ES')]"/>
-            <field name="active">0</field>
-        </record>
-
-        <record id="CATEGORY-ES1477" model="party.party-party.category">
-            <field name="party" ref="PARTY-ES1477"/>
-            <field name="category" ref="bank_country.banks"/>
-        </record>
-
-        <record id="ADDRESS-ES1477" model="party.address">
-            <field name="party" ref="PARTY-ES1477"/>
-            <field name="street">CL JOSE ORTEGA Y GASSET 29</field>
-            <field name="streetbis">PL. 5</field>
-            <field name="zip">28006</field>
-            <field name="city">Madrid</field>
-            <field name="country" search="[('code', '=', 'ES')]"/>
-            <field name="active">1</field>
-        </record>
-
-        <record id="IDENTIFIER-ES1477" model="party.identifier">
-            <field name="party" ref="PARTY-ES1477"/>
-            <field name="type">eu_vat</field>
-            <field name="code">ESW0066180A</field>
-        </record>
-
-        <record id="BANK-ES1477" model="bank">
-            <field name="party" ref="PARTY-ES1477"/>
-            <field name="bic">ABNAESMMXXX</field>
-            <field name="country" search="[('code', '=', 'ES')]"/>
-            <field name="code">ES1477</field>
-        </record>
-
         <record id="PARTY-ES1478" model="party.party">
             <field name="name">MERRILL LYNCH INTERNATIONAL BANK LIMITED, SUCURSAL EN ESPAÑA</field>
             <field name="lang" search="[('code', '=', 'es_ES')]"/>
@@ -6531,7 +6497,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES1522" model="bank">
             <field name="party" ref="PARTY-ES1522"/>
-            <field name="bic">PRDVESM1XXX</field>
+            <field name="bic">AYGBESMMXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES1522</field>
         </record>
@@ -7335,7 +7301,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES2013" model="bank">
             <field name="party" ref="PARTY-ES2013"/>
-            <field name="bic">CESCESBBXXX</field>
+            <field name="bic">BBVAESMMXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES2013</field>
         </record>
