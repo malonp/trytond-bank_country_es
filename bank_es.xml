@@ -2009,7 +2009,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES0094" model="bank">
             <field name="party" ref="PARTY-ES0094"/>
-            <field name="bic">BVALESMMXXX</field>
+            <field name="bic">INVLESMMXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES0094</field>
         </record>
@@ -9595,7 +9595,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES2082" model="bank">
             <field name="party" ref="PARTY-ES2082"/>
-            <field name="bic">CECAESMM097</field>
+            <field name="bic">BASKES2BXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES2082</field>
         </record>
