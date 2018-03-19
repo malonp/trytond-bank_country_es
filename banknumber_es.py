@@ -20,8 +20,6 @@
 ##############################################################################
 
 
-import string
-
 from trytond.modules.bank_country import bank, banknumber
 
 
