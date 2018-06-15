@@ -20,7 +20,7 @@
 ##############################################################################
 
 
-from trytond.modules.bank_country import bank, banknumber
+from trytond.modules.bank_country import banknumber, configuration
 
 
 def check_code(number):
@@ -46,4 +46,4 @@ def check_code(number):
     return True
 
 banknumber.check_code_es = check_code
-bank.BANK_COUNTRIES.append('ES')
+configuration.BANK_COUNTRIES.append('ES')
