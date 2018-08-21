@@ -6876,6 +6876,40 @@ this repository contains the full copyright notices and license terms. -->
             <field name="code">ES1552</field>
         </record>
 
+        <record id="PARTY-ES1553" model="party.party">
+            <field name="name">CHINA CONSTRUCTION BANK (EUROPE), S.A., SUCURSAL EN ESPAÑA</field>
+            <field name="lang" search="[('code', '=', 'es_ES')]"/>
+            <field name="active">0</field>
+        </record>
+
+        <record id="CATEGORY-ES1553" model="party.party-party.category">
+            <field name="party" ref="PARTY-ES1553"/>
+            <field name="category" ref="bank_country.banks"/>
+        </record>
+
+        <record id="ADDRESS-ES1553" model="party.address">
+            <field name="party" ref="PARTY-ES1553"/>
+            <field name="street">AV DIAGONAL 640</field>
+            <field name="streetbis">5ª PLANTA</field>
+            <field name="zip">08017</field>
+            <field name="city">Barcelona</field>
+            <field name="country" search="[('code', '=', 'ES')]"/>
+            <field name="active">1</field>
+        </record>
+
+        <record id="IDENTIFIER-ES1553" model="party.identifier">
+            <field name="party" ref="PARTY-ES1553"/>
+            <field name="type">eu_vat</field>
+            <field name="code">ESW0184063F</field>
+        </record>
+
+        <record id="BANK-ES1553" model="bank">
+            <field name="party" ref="PARTY-ES1553"/>
+            <field name="bic">PCBCLULLXXX</field>
+            <field name="country" search="[('code', '=', 'ES')]"/>
+            <field name="code">ES1553</field>
+        </record>
+
         <record id="PARTY-ES1554" model="party.party">
             <field name="name">BANCA FARMAFACTORING SPA, SUCURSAL EN ESPAÑA</field>
             <field name="lang" search="[('code', '=', 'es_ES')]"/>
@@ -12927,7 +12961,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES3129" model="bank">
             <field name="party" ref="PARTY-ES3129"/>
-            <field name="bic">BCOEESMM189</field>
+            <field name="bic">BCOEESMMXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES3129</field>
         </record>
