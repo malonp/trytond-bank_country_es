@@ -27,11 +27,12 @@ def check_code(number):
     '''
     Check Spanish Bank code.
     '''
+
     def get_control(digitos):
-        resultado = 11 - sum(int(d) * 2**i for i,d in enumerate(digitos)) % 11
+        resultado = 11 - sum(int(d) * 2 ** i for i, d in enumerate(digitos)) % 11
         return resultado if resultado < 10 else 11 - resultado
 
-    #python lib stdnum check if the bban part of number has the correct structure
+    # python lib stdnum check if the bban part of number has the correct structure
 
     value = '00' + number[0:8]
     d1 = get_control(value)
@@ -44,6 +45,7 @@ def check_code(number):
         return False
 
     return True
+
 
 banknumber.check_code_es = check_code
 configuration.BANK_COUNTRIES.append('ES')
