@@ -927,7 +927,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES0048" model="bank">
             <field name="party" ref="PARTY-ES0048"/>
-            <field name="bic">CGDIESMMXXX</field>
+            <field name="bic">CAGLESMMXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES0048</field>
         </record>
@@ -1125,7 +1125,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES0058" model="bank">
             <field name="party" ref="PARTY-ES0058"/>
-            <field name="bic">BNPAESMMXXX</field>
+            <field name="bic">BNPAESMSXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES0058</field>
         </record>
@@ -1884,7 +1884,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES0089" model="bank">
             <field name="party" ref="PARTY-ES0089"/>
-            <field name="bic">CGDIESMMXXX</field>
+            <field name="bic">CAGLESMMXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES0089</field>
         </record>
@@ -2483,72 +2483,6 @@ this repository contains the full copyright notices and license terms. -->
             <field name="code">ES0114</field>
         </record>
 
-        <record id="PARTY-ES0115" model="party.party">
-            <field name="name">BANCO DE CASTILLA-LA MANCHA, S.A.</field>
-            <field name="lang" search="[('code', '=', 'es')]"/>
-            <field name="active">0</field>
-        </record>
-
-        <record id="CATEGORY-ES0115" model="party.party-party.category">
-            <field name="party" ref="PARTY-ES0115"/>
-            <field name="category" ref="bank_country.banks"/>
-        </record>
-
-        <record id="ADDRESS-ES0115" model="party.address">
-            <field name="party" ref="PARTY-ES0115"/>
-            <field name="street">PQ DE SAN JULIAN 20</field>
-            <field name="zip">16001</field>
-            <field name="city">Cuenca</field>
-            <field name="country" search="[('code', '=', 'ES')]"/>
-            <field name="active">1</field>
-        </record>
-
-        <record id="IDENTIFIER-ES0115" model="party.identifier">
-            <field name="party" ref="PARTY-ES0115"/>
-            <field name="type">eu_vat</field>
-            <field name="code">ESA15011489</field>
-        </record>
-
-        <record id="BANK-ES0115" model="bank">
-            <field name="party" ref="PARTY-ES0115"/>
-            <field name="bic">CECAESMM105</field>
-            <field name="country" search="[('code', '=', 'ES')]"/>
-            <field name="code">ES0115</field>
-        </record>
-
-        <record id="PARTY-ES0116" model="party.party">
-            <field name="name">BANCO POPULAR INDUSTRIAL, S.A. (EUROBANCO)</field>
-            <field name="lang" search="[('code', '=', 'es')]"/>
-            <field name="active">0</field>
-        </record>
-
-        <record id="CATEGORY-ES0116" model="party.party-party.category">
-            <field name="party" ref="PARTY-ES0116"/>
-            <field name="category" ref="bank_country.banks"/>
-        </record>
-
-        <record id="ADDRESS-ES0116" model="party.address">
-            <field name="party" ref="PARTY-ES0116"/>
-            <field name="street">CL JOSE ORTEGA Y GASSET 29</field>
-            <field name="zip">28006</field>
-            <field name="city">Madrid</field>
-            <field name="country" search="[('code', '=', 'ES')]"/>
-            <field name="active">1</field>
-        </record>
-
-        <record id="IDENTIFIER-ES0116" model="party.identifier">
-            <field name="party" ref="PARTY-ES0116"/>
-            <field name="type">eu_vat</field>
-            <field name="code">ESA28129195</field>
-        </record>
-
-        <record id="BANK-ES0116" model="bank">
-            <field name="party" ref="PARTY-ES0116"/>
-            <field name="bic">POPUESMMXXX</field>
-            <field name="country" search="[('code', '=', 'ES')]"/>
-            <field name="code">ES0116</field>
-        </record>
-
         <record id="PARTY-ES0118" model="party.party">
             <field name="name">BANCO DE ASTURIAS, S.A.</field>
             <field name="lang" search="[('code', '=', 'es')]"/>
@@ -2643,7 +2577,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES0122" model="bank">
             <field name="party" ref="PARTY-ES0122"/>
-            <field name="bic">CITIES2XXXX</field>
+            <field name="bic">POPLESMMXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES0122</field>
         </record>
@@ -2841,7 +2775,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES0130" model="bank">
             <field name="party" ref="PARTY-ES0130"/>
-            <field name="bic">CGDIESMMXXX</field>
+            <field name="bic">CAGLESMMXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES0130</field>
         </record>
@@ -3996,7 +3930,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES0190" model="bank">
             <field name="party" ref="PARTY-ES0190"/>
-            <field name="bic">BBPIESMMXXX</field>
+            <field name="bic">BBVAESMMXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES0190</field>
         </record>
@@ -4260,7 +4194,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES0208" model="bank">
             <field name="party" ref="PARTY-ES0208"/>
-            <field name="bic">CSSOES2SXXX</field>
+            <field name="bic">UCJAES2MXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES0208</field>
         </record>
@@ -6243,6 +6177,39 @@ this repository contains the full copyright notices and license terms. -->
             <field name="bic">ARABESMMXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES1505</field>
+        </record>
+
+        <record id="PARTY-ES1508" model="party.party">
+            <field name="name">RCI BANQUE, S.A., SUCURSAL EN ESPAÑA</field>
+            <field name="lang" search="[('code', '=', 'es')]"/>
+            <field name="active">0</field>
+        </record>
+
+        <record id="CATEGORY-ES1508" model="party.party-party.category">
+            <field name="party" ref="PARTY-ES1508"/>
+            <field name="category" ref="bank_country.banks"/>
+        </record>
+
+        <record id="ADDRESS-ES1508" model="party.address">
+            <field name="party" ref="PARTY-ES1508"/>
+            <field name="street">AV DE BURGOS 89-A</field>
+            <field name="zip">28050</field>
+            <field name="city">Madrid</field>
+            <field name="country" search="[('code', '=', 'ES')]"/>
+            <field name="active">1</field>
+        </record>
+
+        <record id="IDENTIFIER-ES1508" model="party.identifier">
+            <field name="party" ref="PARTY-ES1508"/>
+            <field name="type">eu_vat</field>
+            <field name="code">ESW0014596A</field>
+        </record>
+
+        <record id="BANK-ES1508" model="bank">
+            <field name="party" ref="PARTY-ES1508"/>
+            <field name="bic">RCINESM1XXX</field>
+            <field name="country" search="[('code', '=', 'ES')]"/>
+            <field name="code">ES1508</field>
         </record>
 
         <record id="PARTY-ES1511" model="party.party">
@@ -8294,39 +8261,6 @@ this repository contains the full copyright notices and license terms. -->
             <field name="code">ES2049</field>
         </record>
 
-        <record id="PARTY-ES2050" model="party.party">
-            <field name="name">CAJA DE AHORROS Y PRESTAMOS DE PALENCIA</field>
-            <field name="lang" search="[('code', '=', 'es')]"/>
-            <field name="active">0</field>
-        </record>
-
-        <record id="CATEGORY-ES2050" model="party.party-party.category">
-            <field name="party" ref="PARTY-ES2050"/>
-            <field name="category" ref="bank_country.banks"/>
-        </record>
-
-        <record id="ADDRESS-ES2050" model="party.address">
-            <field name="party" ref="PARTY-ES2050"/>
-            <field name="street">CL MAYOR 15</field>
-            <field name="zip">34001</field>
-            <field name="city">Palencia</field>
-            <field name="country" search="[('code', '=', 'ES')]"/>
-            <field name="active">1</field>
-        </record>
-
-        <record id="IDENTIFIER-ES2050" model="party.identifier">
-            <field name="party" ref="PARTY-ES2050"/>
-            <field name="type">eu_vat</field>
-            <field name="code">ESG34000117</field>
-        </record>
-
-        <record id="BANK-ES2050" model="bank">
-            <field name="party" ref="PARTY-ES2050"/>
-            <field name="bic">CSPAES2L108</field>
-            <field name="country" search="[('code', '=', 'ES')]"/>
-            <field name="code">ES2050</field>
-        </record>
-
         <record id="PARTY-ES2051" model="party.party">
             <field name="name">CAJA DE AHORROS Y MONTE DE PIEDAD DE LAS BALEARES</field>
             <field name="lang" search="[('code', '=', 'es')]"/>
@@ -10104,7 +10038,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES2105" model="bank">
             <field name="party" ref="PARTY-ES2105"/>
-            <field name="bic">CECAESMM105</field>
+            <field name="bic">CECAESMM048</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES2105</field>
         </record>
@@ -10203,7 +10137,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES2108" model="bank">
             <field name="party" ref="PARTY-ES2108"/>
-            <field name="bic">CSPAES2L108</field>
+            <field name="bic">UCJAES2MXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES2108</field>
         </record>
@@ -10239,39 +10173,6 @@ this repository contains the full copyright notices and license terms. -->
             <field name="bic">BCOEESMM001</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES3001</field>
-        </record>
-
-        <record id="PARTY-ES3003" model="party.party">
-            <field name="name">CAJA RURAL DEL BIERZO, SDAD. COOP. CTO. LTDA., EN LIQUIDACION</field>
-            <field name="lang" search="[('code', '=', 'es')]"/>
-            <field name="active">0</field>
-        </record>
-
-        <record id="CATEGORY-ES3003" model="party.party-party.category">
-            <field name="party" ref="PARTY-ES3003"/>
-            <field name="category" ref="bank_country.banks"/>
-        </record>
-
-        <record id="ADDRESS-ES3003" model="party.address">
-            <field name="party" ref="PARTY-ES3003"/>
-            <field name="street">PZ MAYOR 1</field>
-            <field name="zip">24540</field>
-            <field name="city">Cacabelos</field>
-            <field name="country" search="[('code', '=', 'ES')]"/>
-            <field name="active">1</field>
-        </record>
-
-        <record id="IDENTIFIER-ES3003" model="party.identifier">
-            <field name="party" ref="PARTY-ES3003"/>
-            <field name="type">eu_vat</field>
-            <field name="code">ESF24008856</field>
-        </record>
-
-        <record id="BANK-ES3003" model="bank">
-            <field name="party" ref="PARTY-ES3003"/>
-            <field name="bic">CSPAES2L108</field>
-            <field name="country" search="[('code', '=', 'ES')]"/>
-            <field name="code">ES3003</field>
         </record>
 
         <record id="PARTY-ES3005" model="party.party">
@@ -12780,39 +12681,6 @@ this repository contains the full copyright notices and license terms. -->
             <field name="bic">BCOEESMM138</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES3138</field>
-        </record>
-
-        <record id="PARTY-ES3139" model="party.party">
-            <field name="name">CAJA RURAL DE ARENAS DE SAN PEDRO,  SDAD. COOP. CTO. LTDA.</field>
-            <field name="lang" search="[('code', '=', 'es')]"/>
-            <field name="active">0</field>
-        </record>
-
-        <record id="CATEGORY-ES3139" model="party.party-party.category">
-            <field name="party" ref="PARTY-ES3139"/>
-            <field name="category" ref="bank_country.banks"/>
-        </record>
-
-        <record id="ADDRESS-ES3139" model="party.address">
-            <field name="party" ref="PARTY-ES3139"/>
-            <field name="street">CL TRISTE CONDESA 33</field>
-            <field name="zip">05400</field>
-            <field name="city">Arenas De San Pedro</field>
-            <field name="country" search="[('code', '=', 'ES')]"/>
-            <field name="active">1</field>
-        </record>
-
-        <record id="IDENTIFIER-ES3139" model="party.identifier">
-            <field name="party" ref="PARTY-ES3139"/>
-            <field name="type">eu_vat</field>
-            <field name="code">ESF05001292</field>
-        </record>
-
-        <record id="BANK-ES3139" model="bank">
-            <field name="party" ref="PARTY-ES3139"/>
-            <field name="bic">CSPAES2L108</field>
-            <field name="country" search="[('code', '=', 'ES')]"/>
-            <field name="code">ES3139</field>
         </record>
 
         <record id="PARTY-ES3140" model="party.party">
