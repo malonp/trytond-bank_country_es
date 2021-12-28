@@ -20,6 +20,7 @@
 ##############################################################################
 
 from trytond.pool import Pool
+
 from .banknumber_es import *
 
 
