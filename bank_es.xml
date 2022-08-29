@@ -2649,7 +2649,7 @@ this repository contains the full copyright notices and license terms. -->
         </record>
 
         <record id="PARTY-ES1451" model="party.party">
-            <field name="name">CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL SUD MEDITERRANEE (ARIEGE ET  PYRENEES ORIENTALES), S.E.</field>
+            <field name="name">CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL SUD MEDITERRANEE (ARIEGE ET PYRENEES ORIENTALES), S.E.</field>
             <field name="lang" search="[('code', '=', 'es')]"/>
             <field name="active">0</field>
         </record>
@@ -2682,7 +2682,7 @@ this repository contains the full copyright notices and license terms. -->
         </record>
 
         <record id="PARTY-ES1457" model="party.party">
-            <field name="name">DE LAGE LANDEN INTERNATIONAL B.V.,  SUCURSAL EN ESPAÑA</field>
+            <field name="name">DE LAGE LANDEN INTERNATIONAL B.V., SUCURSAL EN ESPAÑA</field>
             <field name="lang" search="[('code', '=', 'es')]"/>
             <field name="active">0</field>
         </record>
@@ -3045,7 +3045,7 @@ this repository contains the full copyright notices and license terms. -->
         </record>
 
         <record id="PARTY-ES1485" model="party.party">
-            <field name="name">BANK OF AMERICA EUROPE  DAC, SUCURSAL EN ESPAÑA</field>
+            <field name="name">BANK OF AMERICA EUROPE DAC, SUCURSAL EN ESPAÑA</field>
             <field name="lang" search="[('code', '=', 'es')]"/>
             <field name="active">0</field>
         </record>
@@ -3936,7 +3936,7 @@ this repository contains the full copyright notices and license terms. -->
         </record>
 
         <record id="PARTY-ES2017" model="party.party">
-            <field name="name">CAJA DE AHORROS Y MONTE DE PIEDAD DEL CIRCULO CATOLICO DE OBREROS DE  BURGOS</field>
+            <field name="name">CAJA DE AHORROS Y MONTE DE PIEDAD DEL CIRCULO CATOLICO DE OBREROS DE BURGOS</field>
             <field name="lang" search="[('code', '=', 'es')]"/>
             <field name="active">0</field>
         </record>
@@ -5124,7 +5124,7 @@ this repository contains the full copyright notices and license terms. -->
         </record>
 
         <record id="PARTY-ES3025" model="party.party">
-            <field name="name">CAIXA DE CREDIT DELS ENGINYERS- CAJA DE CREDITO DE LOS INGENIEROS,  S. COOP. DE CREDITO</field>
+            <field name="name">CAIXA DE CREDIT DELS ENGINYERS- CAJA DE CREDITO DE LOS INGENIEROS, S. COOP. DE CREDITO</field>
             <field name="lang" search="[('code', '=', 'es')]"/>
             <field name="active">0</field>
         </record>
@@ -5652,7 +5652,7 @@ this repository contains the full copyright notices and license terms. -->
         </record>
 
         <record id="PARTY-ES3096" model="party.party">
-            <field name="name">CAIXA RURAL DE L'ALCUDIA, SOCIEDAD COOPERATIVA VALENCIANA DE  CREDITO</field>
+            <field name="name">CAIXA RURAL DE L'ALCUDIA, SOCIEDAD COOPERATIVA VALENCIANA DE CREDITO</field>
             <field name="lang" search="[('code', '=', 'es')]"/>
             <field name="active">0</field>
         </record>
@@ -5685,7 +5685,7 @@ this repository contains the full copyright notices and license terms. -->
         </record>
 
         <record id="PARTY-ES3098" model="party.party">
-            <field name="name">CAJA RURAL DE NUEVA CARTEYA,  SOCIEDAD COOPERATIVA ANDALUZA DE CREDITO</field>
+            <field name="name">CAJA RURAL DE NUEVA CARTEYA, SOCIEDAD COOPERATIVA ANDALUZA DE CREDITO</field>
             <field name="lang" search="[('code', '=', 'es')]"/>
             <field name="active">0</field>
         </record>
@@ -5751,7 +5751,7 @@ this repository contains the full copyright notices and license terms. -->
         </record>
 
         <record id="PARTY-ES3104" model="party.party">
-            <field name="name">CAJA RURAL DE CAÑETE DE LAS TORRES  NTRA.. SRA.DEL CAMPO SOCIEDAD COOPERATIVA ANDALUZA DE CREDITO</field>
+            <field name="name">CAJA RURAL DE CAÑETE DE LAS TORRES NTRA. SRA.DEL CAMPO SOCIEDAD COOPERATIVA ANDALUZA DE CREDITO</field>
             <field name="lang" search="[('code', '=', 'es')]"/>
             <field name="active">0</field>
         </record>
@@ -6543,7 +6543,7 @@ this repository contains the full copyright notices and license terms. -->
         </record>
 
         <record id="PARTY-ES3162" model="party.party">
-            <field name="name">CAIXA RURAL BENICARLO, S. COOP. DE  CREDIT V.</field>
+            <field name="name">CAIXA RURAL BENICARLO, S. COOP. DE CREDIT V.</field>
             <field name="lang" search="[('code', '=', 'es')]"/>
             <field name="active">0</field>
         </record>
@@ -6576,7 +6576,7 @@ this repository contains the full copyright notices and license terms. -->
         </record>
 
         <record id="PARTY-ES3165" model="party.party">
-            <field name="name">CAJA RURAL SAN ISIDRO DE VILAFAMES  S. COOP. DE CREDITO V.</field>
+            <field name="name">CAJA RURAL SAN ISIDRO DE VILAFAMES S. COOP. DE CREDITO V.</field>
             <field name="lang" search="[('code', '=', 'es')]"/>
             <field name="active">0</field>
         </record>
