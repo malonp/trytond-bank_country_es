@@ -5,7 +5,7 @@ this repository contains the full copyright notices and license terms. -->
     <data>
 
         <!--
-        Output of scripts/bank_es.py
+        Output of scripts/bank_xx.py
         -->
 
         <record id="PARTY-ES0003" model="party.party">
