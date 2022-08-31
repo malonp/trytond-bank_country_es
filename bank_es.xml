@@ -432,7 +432,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES0021" model="bank">
             <field name="party" ref="PARTY-ES0021"/>
-            <field name="bic">BCNDESM1XXX</field>
+            <field name="bic">BDEPESM1XXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES0021</field>
         </record>
@@ -498,7 +498,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES0029" model="bank">
             <field name="party" ref="PARTY-ES0029"/>
-            <field name="bic">CSSOES2SXXX</field>
+            <field name="bic">UCJAES2MXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES0029</field>
         </record>
@@ -663,7 +663,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES0038" model="bank">
             <field name="party" ref="PARTY-ES0038"/>
-            <field name="bic">TOTAPTPLXXX</field>
+            <field name="bic">BSSSESM2XXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES0038</field>
         </record>
@@ -927,7 +927,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES0048" model="bank">
             <field name="party" ref="PARTY-ES0048"/>
-            <field name="bic">CGDIESMMXXX</field>
+            <field name="bic">CAGLESMMXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES0048</field>
         </record>
@@ -1059,7 +1059,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES0056" model="bank">
             <field name="party" ref="PARTY-ES0056"/>
-            <field name="bic">CAHMESMMXXX</field>
+            <field name="bic">CAIXESBBXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES0056</field>
         </record>
@@ -1818,7 +1818,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES0087" model="bank">
             <field name="party" ref="PARTY-ES0087"/>
-            <field name="bic">CAHMESMMXXX</field>
+            <field name="bic">CAIXESBBXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES0087</field>
         </record>
@@ -1884,7 +1884,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES0089" model="bank">
             <field name="party" ref="PARTY-ES0089"/>
-            <field name="bic">CGDIESMMXXX</field>
+            <field name="bic">CAGLESMMXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES0089</field>
         </record>
@@ -2379,7 +2379,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES0107" model="bank">
             <field name="party" ref="PARTY-ES0107"/>
-            <field name="bic">BNLIESM1XXX</field>
+            <field name="bic">BNPAESMSXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES0107</field>
         </record>
@@ -2907,7 +2907,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES0129" model="bank">
             <field name="party" ref="PARTY-ES0129"/>
-            <field name="bic">INALESM1XXX</field>
+            <field name="bic">MIKBESB1XXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES0129</field>
         </record>
@@ -3237,7 +3237,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES0143" model="bank">
             <field name="party" ref="PARTY-ES0143"/>
-            <field name="bic">COBAESMXXXX</field>
+            <field name="bic">BBVAESMMXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES0143</field>
         </record>
@@ -3699,7 +3699,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES0161" model="bank">
             <field name="party" ref="PARTY-ES0161"/>
-            <field name="bic">BOTKESMXXXX</field>
+            <field name="bic">BKTRESM1XXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES0161</field>
         </record>
@@ -3798,7 +3798,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES0167" model="bank">
             <field name="party" ref="PARTY-ES0167"/>
-            <field name="bic">GEBAESMMXXX</field>
+            <field name="bic">BNPAESMSXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES0167</field>
         </record>
@@ -4326,7 +4326,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES0200" model="bank">
             <field name="party" ref="PARTY-ES0200"/>
-            <field name="bic">PRVBESB1XXX</field>
+            <field name="bic">DEGRESBBXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES0200</field>
         </record>
@@ -4458,7 +4458,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES0208" model="bank">
             <field name="party" ref="PARTY-ES0208"/>
-            <field name="bic">CSSOES2SXXX</field>
+            <field name="bic">UCJAES2MXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES0208</field>
         </record>
@@ -4887,7 +4887,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES0225" model="bank">
             <field name="party" ref="PARTY-ES0225"/>
-            <field name="bic">FIEIESM1XXX</field>
+            <field name="bic">BNPAESM2XXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES0225</field>
         </record>
@@ -4953,7 +4953,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES0227" model="bank">
             <field name="party" ref="PARTY-ES0227"/>
-            <field name="bic">UNOEESM1XXX</field>
+            <field name="bic">BBVAESMMXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES0227</field>
         </record>
@@ -6075,7 +6075,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES1467" model="bank">
             <field name="party" ref="PARTY-ES1467"/>
-            <field name="bic">EHYPESMXXXX</field>
+            <field name="bic">EHYPESM1XXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES1467</field>
         </record>
@@ -7527,7 +7527,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES2001" model="bank">
             <field name="party" ref="PARTY-ES2001"/>
-            <field name="bic">CECAESMMXXX</field>
+            <field name="bic">UCJAES2MXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES2001</field>
         </record>
@@ -7923,7 +7923,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES2019" model="bank">
             <field name="party" ref="PARTY-ES2019"/>
-            <field name="bic">CECAESMMXXX</field>
+            <field name="bic">UCJAES2MXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES2019</field>
         </record>
@@ -7989,7 +7989,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES2021" model="bank">
             <field name="party" ref="PARTY-ES2021"/>
-            <field name="bic">CAHMESMMXXX</field>
+            <field name="bic">CAIXESBBXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES2021</field>
         </record>
@@ -8022,7 +8022,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES2022" model="bank">
             <field name="party" ref="PARTY-ES2022"/>
-            <field name="bic">CAHMESMMXXX</field>
+            <field name="bic">CAIXESBBXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES2022</field>
         </record>
@@ -8055,7 +8055,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES2023" model="bank">
             <field name="party" ref="PARTY-ES2023"/>
-            <field name="bic">CAHMESMMXXX</field>
+            <field name="bic">CAIXESBBXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES2023</field>
         </record>
@@ -8154,7 +8154,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES2028" model="bank">
             <field name="party" ref="PARTY-ES2028"/>
-            <field name="bic">CECAESMMXXX</field>
+            <field name="bic">UCJAES2MXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES2028</field>
         </record>
@@ -8352,7 +8352,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES2035" model="bank">
             <field name="party" ref="PARTY-ES2035"/>
-            <field name="bic">CSPAES2LXXX</field>
+            <field name="bic">UCJAES2MXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES2035</field>
         </record>
@@ -8715,7 +8715,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES2049" model="bank">
             <field name="party" ref="PARTY-ES2049"/>
-            <field name="bic">CSPAES2LXXX</field>
+            <field name="bic">UCJAES2MXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES2049</field>
         </record>
@@ -8880,7 +8880,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES2055" model="bank">
             <field name="party" ref="PARTY-ES2055"/>
-            <field name="bic">CECAESMMXXX</field>
+            <field name="bic">UCJAES2MXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES2055</field>
         </record>
@@ -9045,7 +9045,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES2060" model="bank">
             <field name="party" ref="PARTY-ES2060"/>
-            <field name="bic">CAHMESMMXXX</field>
+            <field name="bic">CAIXESBBXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES2060</field>
         </record>
@@ -9078,7 +9078,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES2061" model="bank">
             <field name="party" ref="PARTY-ES2061"/>
-            <field name="bic">CSSOES2SXXX</field>
+            <field name="bic">UCJAES2MXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES2061</field>
         </record>
@@ -9243,7 +9243,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES2068" model="bank">
             <field name="party" ref="PARTY-ES2068"/>
-            <field name="bic">CAHMESMMXXX</field>
+            <field name="bic">CAIXESBBXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES2068</field>
         </record>
@@ -9375,7 +9375,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES2072" model="bank">
             <field name="party" ref="PARTY-ES2072"/>
-            <field name="bic">CSSOES2SXXX</field>
+            <field name="bic">UCJAES2MXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES2072</field>
         </record>
@@ -9474,7 +9474,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES2075" model="bank">
             <field name="party" ref="PARTY-ES2075"/>
-            <field name="bic">CECAESMMXXX</field>
+            <field name="bic">UCJAES2MXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES2075</field>
         </record>
@@ -9573,7 +9573,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES2078" model="bank">
             <field name="party" ref="PARTY-ES2078"/>
-            <field name="bic">CSPAES2LXXX</field>
+            <field name="bic">UCJAES2MXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES2078</field>
         </record>
@@ -9606,7 +9606,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES2079" model="bank">
             <field name="party" ref="PARTY-ES2079"/>
-            <field name="bic">CSPAES2LXXX</field>
+            <field name="bic">UCJAES2MXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES2079</field>
         </record>
@@ -9771,7 +9771,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES2084" model="bank">
             <field name="party" ref="PARTY-ES2084"/>
-            <field name="bic">CSPAES2LXXX</field>
+            <field name="bic">UCJAES2MXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES2084</field>
         </record>
@@ -9903,7 +9903,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES2089" model="bank">
             <field name="party" ref="PARTY-ES2089"/>
-            <field name="bic">CECAESMMXXX</field>
+            <field name="bic">CAIXESBBXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES2089</field>
         </record>
@@ -10068,7 +10068,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES2094" model="bank">
             <field name="party" ref="PARTY-ES2094"/>
-            <field name="bic">CAHMESMMXXX</field>
+            <field name="bic">CAIXESBBXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES2094</field>
         </record>
@@ -10398,7 +10398,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES2104" model="bank">
             <field name="party" ref="PARTY-ES2104"/>
-            <field name="bic">CSSOES2SXXX</field>
+            <field name="bic">UCJAES2MXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES2104</field>
         </record>
@@ -10860,7 +10860,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES3021" model="bank">
             <field name="party" ref="PARTY-ES3021"/>
-            <field name="bic">BCOEESMMXXX</field>
+            <field name="bic">BCOEESMM191</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES3021</field>
         </record>
@@ -10893,7 +10893,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES3022" model="bank">
             <field name="party" ref="PARTY-ES3022"/>
-            <field name="bic">BCOEESMMXXX</field>
+            <field name="bic">BCOEESMM060</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES3022</field>
         </record>
@@ -11157,7 +11157,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES3056" model="bank">
             <field name="party" ref="PARTY-ES3056"/>
-            <field name="bic">BCOEESMMXXX</field>
+            <field name="bic">BCOEESMM190</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES3056</field>
         </record>
@@ -11355,7 +11355,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES3062" model="bank">
             <field name="party" ref="PARTY-ES3062"/>
-            <field name="bic">BCOEESMMXXX</field>
+            <field name="bic">BCOEESMM190</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES3062</field>
         </record>
@@ -11388,7 +11388,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES3063" model="bank">
             <field name="party" ref="PARTY-ES3063"/>
-            <field name="bic">BCOEESMMXXX</field>
+            <field name="bic">BCOEESMM187</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES3063</field>
         </record>
@@ -11421,7 +11421,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES3064" model="bank">
             <field name="party" ref="PARTY-ES3064"/>
-            <field name="bic">BCOEESMMXXX</field>
+            <field name="bic">BCOEESMM190</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES3064</field>
         </record>
@@ -11454,7 +11454,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES3065" model="bank">
             <field name="party" ref="PARTY-ES3065"/>
-            <field name="bic">BCOEESMMXXX</field>
+            <field name="bic">BCOEESMM187</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES3065</field>
         </record>
@@ -11487,7 +11487,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES3066" model="bank">
             <field name="party" ref="PARTY-ES3066"/>
-            <field name="bic">BCOEESMMXXX</field>
+            <field name="bic">BCOEESMM191</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES3066</field>
         </record>
@@ -11718,7 +11718,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES3078" model="bank">
             <field name="party" ref="PARTY-ES3078"/>
-            <field name="bic">BCOEESMMXXX</field>
+            <field name="bic">BCOEESMM060</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES3078</field>
         </record>
@@ -11751,7 +11751,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES3079" model="bank">
             <field name="party" ref="PARTY-ES3079"/>
-            <field name="bic">BCOEESMMXXX</field>
+            <field name="bic">BCOEESMM187</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES3079</field>
         </record>
@@ -12015,7 +12015,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES3092" model="bank">
             <field name="party" ref="PARTY-ES3092"/>
-            <field name="bic">BCOEESMMXXX</field>
+            <field name="bic">BCOEESMM191</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES3092</field>
         </record>
@@ -12048,7 +12048,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES3093" model="bank">
             <field name="party" ref="PARTY-ES3093"/>
-            <field name="bic">BCOEESMMXXX</field>
+            <field name="bic">BCOEESMM191</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES3093</field>
         </record>
@@ -12543,7 +12543,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES3116" model="bank">
             <field name="party" ref="PARTY-ES3116"/>
-            <field name="bic">BCOEESMMXXX</field>
+            <field name="bic">BCOEESMM190</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES3116</field>
         </record>
@@ -12774,7 +12774,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES3128" model="bank">
             <field name="party" ref="PARTY-ES3128"/>
-            <field name="bic">BCOEESMMXXX</field>
+            <field name="bic">BCOEESMM190</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES3128</field>
         </record>
@@ -12807,7 +12807,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES3129" model="bank">
             <field name="party" ref="PARTY-ES3129"/>
-            <field name="bic">BCOEESMMXXX</field>
+            <field name="bic">BCOEESMM191</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES3129</field>
         </record>
@@ -13071,7 +13071,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES3141" model="bank">
             <field name="party" ref="PARTY-ES3141"/>
-            <field name="bic">BBVAESMMXXX</field>
+            <field name="bic">CESCESBBXXX</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES3141</field>
         </record>
@@ -13137,7 +13137,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES3146" model="bank">
             <field name="party" ref="PARTY-ES3146"/>
-            <field name="bic">CCCVESM1XXX</field>
+            <field name="bic">BCOEESMM067</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES3146</field>
         </record>
@@ -13368,7 +13368,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES3161" model="bank">
             <field name="party" ref="PARTY-ES3161"/>
-            <field name="bic">BCOEESMMXXX</field>
+            <field name="bic">BCOEESMM060</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES3161</field>
         </record>
@@ -13566,7 +13566,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES3171" model="bank">
             <field name="party" ref="PARTY-ES3171"/>
-            <field name="bic">BCOEESMMXXX</field>
+            <field name="bic">BCOEESMM191</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES3171</field>
         </record>
@@ -13896,7 +13896,7 @@ this repository contains the full copyright notices and license terms. -->
 
         <record id="BANK-ES3189" model="bank">
             <field name="party" ref="PARTY-ES3189"/>
-            <field name="bic">BCOEESMMXXX</field>
+            <field name="bic">BCOEESMM191</field>
             <field name="country" search="[('code', '=', 'ES')]"/>
             <field name="code">ES3189</field>
         </record>
