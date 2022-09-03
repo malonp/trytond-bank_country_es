@@ -29,7 +29,7 @@ def check_code(number):
     '''
 
     def get_control(digitos):
-        resultado = 11 - sum(int(d) * 2 ** i for i, d in enumerate(digitos)) % 11
+        resultado = 11 - sum(int(d) * 2**i for i, d in enumerate(digitos)) % 11
         return resultado if resultado < 10 else 11 - resultado
 
     # python lib stdnum check if the bban part of number has the correct structure
